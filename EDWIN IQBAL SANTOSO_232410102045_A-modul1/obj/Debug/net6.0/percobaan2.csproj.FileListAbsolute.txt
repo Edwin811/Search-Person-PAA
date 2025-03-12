@@ -1,0 +1,64 @@
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/appsettings.Development.json
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/appsettings.json
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/percobaan2
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/percobaan2.deps.json
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/percobaan2.runtimeconfig.json
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/percobaan2.dll
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/percobaan2.pdb
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edwinsantoso/Projects/percobaan2/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.csproj.AssemblyReference.cache
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.AssemblyInfoInputs.cache
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.AssemblyInfo.cs
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.csproj.CoreCompileInputs.cache
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.MvcApplicationPartsAssemblyInfo.cs
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.MvcApplicationPartsAssemblyInfo.cache
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets/msbuild.percobaan2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets/msbuild.build.percobaan2.props
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.percobaan2.props
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.percobaan2.props
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets.build.json
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/staticwebassets.development.json
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/scopedcss/bundle/percobaan2.styles.css
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.csproj.CopyComplete
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.dll
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/refint/percobaan2.dll
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.pdb
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/percobaan2.genruntimeconfig.cache
+/Users/edwinsantoso/Projects/percobaan2/obj/Debug/net6.0/ref/percobaan2.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/appsettings.Development.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/appsettings.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/percobaan2
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/percobaan2.deps.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/percobaan2.runtimeconfig.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/percobaan2.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/percobaan2.pdb
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.csproj.AssemblyReference.cache
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.AssemblyInfoInputs.cache
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.AssemblyInfo.cs
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.csproj.CoreCompileInputs.cache
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.MvcApplicationPartsAssemblyInfo.cs
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.MvcApplicationPartsAssemblyInfo.cache
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets/msbuild.percobaan2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets/msbuild.build.percobaan2.props
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.percobaan2.props
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.percobaan2.props
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/scopedcss/bundle/percobaan2.styles.css
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.csproj.CopyComplete
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/refint/percobaan2.dll
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.pdb
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/percobaan2.genruntimeconfig.cache
+/Users/edwinsantoso/Documents/KULIAH/4/PAA/EDWIN IQBAL SANTOSO_232410102045_A-modul1/obj/Debug/net6.0/ref/percobaan2.dll

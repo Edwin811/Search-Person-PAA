@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/percobaan2.props" />
+</Project>
